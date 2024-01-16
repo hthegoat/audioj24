@@ -11,7 +11,6 @@ import TheWelcome from '../components/TheWelcome.vue'
 </div>
 </template>
 
-<template>
   <CenteredText>
     Welcome To Baesmint
   </CenteredText>
