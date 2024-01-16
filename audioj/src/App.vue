@@ -1,6 +1,7 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import MainNav from './components/MainNav.vue'
+import MainFooter from './components/MainFooter.vue'
 
 
 
@@ -8,13 +9,14 @@ import MainNav from './components/MainNav.vue'
 
 <template>
 <div>
-<header>
-  <MainNav />
-
-  
+  <header>
+    <MainNav /> 
   </header>
 
   <RouterView />
+  <footer>
+    <MainFooter />
+  </footer>
 </div>
 </template>
 
