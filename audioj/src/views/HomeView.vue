@@ -9,3 +9,13 @@ import TheWelcome from '../components/TheWelcome.vue'
     </main>
   </div>
 </template>
+
+<script>
+import TextComponent from '@/components/TextComponent.vue';
+
+export default {
+  components: {
+    TextComponent
+  }
+};
+</script>
