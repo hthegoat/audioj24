@@ -14,3 +14,12 @@
 }
 </style>
 
+<script>
+import TextComponentOne from '@/components/TextComponentOne.vue';
+
+export default {
+  components: {
+    TextComponentOne
+  }
+};
+</script>
