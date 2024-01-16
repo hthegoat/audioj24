@@ -30,3 +30,9 @@
       </div>
     </section>
   </template>
+  <script>
+  export default {
+    name: 'SplitImage',
+    // You can define props, data, methods, etc. here in the future
+  };
+  </script>

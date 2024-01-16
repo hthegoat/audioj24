@@ -15,11 +15,11 @@
 </style>
 
 <script>
-import TextComponentOne from '@/components/TextComponentOne.vue';
+import SplitImage from '@/components/SplitImage.vue';
 
 export default {
   components: {
-    TextComponentOne
+    SplitImage
   }
 };
 </script>
