@@ -11,7 +11,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 </template>
 
 <script>
-import TextComponent from '@/components/TextComponent.vue';
+import TextComponent from '/components/TextComponent.vue';
 
 export default {
   components: {
