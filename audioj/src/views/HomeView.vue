@@ -9,6 +9,4 @@ import TheWelcome from '../components/TheWelcome.vue'
     <TheWelcome/> 
   </main>
 </div>
-</template>
-<script>
-import 'Split Contet'
+
