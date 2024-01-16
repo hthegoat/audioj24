@@ -4,7 +4,7 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </div>
       <div class="text-box">
-        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Welcome To The Future
       </div>
     </div>
   </template>
