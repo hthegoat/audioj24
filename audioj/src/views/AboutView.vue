@@ -1,5 +1,5 @@
-<script>
-import SplitImage from './components/SplitImage.vue';
+<script setup>
+import SplitImage from '../components/SplitImage.vue';
 </script>
 
 
