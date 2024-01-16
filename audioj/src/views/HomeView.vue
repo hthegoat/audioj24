@@ -1,22 +1,20 @@
 <script setup>
 import TheWelcome from '../components/TheWelcome.vue'
+import TextComponentOne from '../components/TextComponentOne.vue';
 </script>
 
 <template>
   <div>
     <main>
       <TheWelcome/> 
+      <TextComponentOne/>
     </main>
   </div>
 </template>
 
 <script>
-import TextComponentOne from '@/components/TextComponentOne.vue';
 
-export default {
-  components: {
-    TextComponentOne
-  }
-};
+
+
 </script>
 
