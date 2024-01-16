@@ -11,11 +11,12 @@ import TheWelcome from '../components/TheWelcome.vue'
 </template>
 
 <script>
-import TextComponent from '/components/TextComponent.vue';
+import TextComponentOne from '@/components/TextComponentOne.vue';
 
 export default {
   components: {
-    TextComponent
+    TextComponentOne
   }
 };
 </script>
+
