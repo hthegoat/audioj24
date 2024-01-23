@@ -1,12 +1,14 @@
 <template>
-    <div class="text-container">
-      <div class="text-box">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      </div>
-      <div class="text-box">
-        Welcome To The Future
-      </div>
+   <div id="learn" class="mx-auto max-w-screen-xl px-4 py-2 lg:flex lg:h-screen lg:items-center">
+    <div class="mx-auto max-w-xl text-center">
+            <div class="w-full mx-auto">
+                <h2>A small headline to switch your visitors into users.</h2>
+                <p>Right. Say that again. No, no, George, look, it's just an act, right? Okay, so 9:00 you're strolling through the parking lot, you see us struggling in the car, you walk up, you open the door and you say, your line, George. Stop it. We're gonna take a little break but we'll be back in a while so, don't nobody go no where.</p>
+                <p>Right. Say that again. No, no, George, look, it's just an act, right? Okay, so 9:00 you're strolling through the parking lot, you see us struggling in the car, you walk up, you open the door ..</p>
+            </div>
+        </div>
     </div>
+
   </template>
   
   <script>
