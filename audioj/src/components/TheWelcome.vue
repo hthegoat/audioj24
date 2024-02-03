@@ -30,8 +30,8 @@
 
       
     </div>
-    <div id="learn" class="mx-auto max-w-screen-xl px-4 py-2 lg:flex lg:h-screen lg:items-center"></div>
-    <div class="mx-auto max-w-xl text-center">
+    <div id="learn" class="mt-4 sm:text-xl/relaxed"></div>
+    <div cclass="mt-4 sm:text-xl/relaxed">
             <div class="w-full mx-auto">
                 <h2>Upload your music. Sell it to your fans.</h2>
                 <p>We're taking music streaming where it always should have been.</p>
