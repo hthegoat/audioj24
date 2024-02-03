@@ -4,9 +4,9 @@
         <div class="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
           <div class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
             <img
-            alt="party"
+            
               src="https://unsplash.com/photos/person-playing-brown-and-white-acoustic-guitars-ptVBlniJi50">
-              class="absolute inset-0 h-full w-full object-cover">
+              <div class="absolute inset-0 h-full w-full object-cover">
           </div>
     
           <div class="lg:py-24">
@@ -28,6 +28,7 @@
         </div>
       </div>
     </div>
+    
   </template>
 <script>
 
