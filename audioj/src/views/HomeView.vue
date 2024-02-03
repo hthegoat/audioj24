@@ -1,7 +1,7 @@
 <script setup>
 import TheWelcome from '../components/TheWelcome.vue'
 import SplitImage from '../components/SplitImage.vue'
-
+import VueTailwindPlayer from '../components/VueTailwindPlayer.vue'
 
 
 </script>
