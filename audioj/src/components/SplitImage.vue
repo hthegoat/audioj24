@@ -5,7 +5,7 @@
           <div class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
             <img
               alt="Party"
-              src="https://unsplash.com/photos/a-computer-desk-with-two-monitors-and-a-keyboard-XJK8gdWpxWk"
+              src="https://unsplash.com/photos/person-playing-brown-and-white-acoustic-guitars-ptVBlniJi50"
               class="absolute inset-0 h-full w-full object-cover"
             />
           </div>
