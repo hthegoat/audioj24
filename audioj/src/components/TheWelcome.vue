@@ -30,14 +30,7 @@
 
       
     </div>
-    <div id="learn" class="mt-4 sm:text-xl/relaxed"></div>
-    <div cclass="mt-4 sm:text-xl/relaxed">
-            <div class="w-full mx-auto">
-                <h2>Upload your music. Sell it to your fans.</h2>
-                <p>We're taking music streaming where it always should have been.</p>
-                <p>The future is exciting.</p>
-        </div> 
+
     </div>
-  </div>
 </section>
 </template>
