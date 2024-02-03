@@ -1,6 +1,6 @@
 <script setup>
 import TheWelcome from '../components/TheWelcome.vue'
-import TextComponentOne from '../components/TextComponentOne.vue';
+import TextComponentOne from '../components/TextComponentOne.vue'
 
 
 
