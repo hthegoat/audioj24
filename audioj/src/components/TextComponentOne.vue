@@ -7,7 +7,7 @@
                 <p>The future is exciting.</p>
         </div>
     </div>
-
+</div>
   </template>
   
   <script>
