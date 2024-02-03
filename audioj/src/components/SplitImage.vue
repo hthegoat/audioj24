@@ -11,12 +11,12 @@
           </div>
     
           <div class="lg:py-24">
-            <h2 class="text-3xl font-bold sm:text-4xl">Grow your audience</h2>
+            <h2 class="text-3xl font-bold sm:text-4xl">This is how it should have always been.</h2>
     
             <p class="mt-4 text-gray-600">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
-              eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
-              quidem quam repellat.
+              Everything you know about streaming is wrong. We're here to make it right. 
+              Have you just made a song? Upload it, set a price, and make it available for download.
+              Your future has never been more in control.
             </p>
     
             <a
